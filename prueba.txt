@@ -1,0 +1,22 @@
+
+Traza a la direcci¢n pornhub.com [66.254.114.41]
+sobre un m ximo de 30 saltos:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.0.1 
+  2     5 ms     6 ms     5 ms  10.3.0.1 
+  3     7 ms     5 ms     5 ms  42.15.26.77.dynamic.reverse-mundo-r.com [77.26.15.42] 
+  4     7 ms     7 ms     7 ms  10.0.187.7 
+  5     7 ms     7 ms     7 ms  61.17.26.77.dynamic.reverse-mundo-r.com [77.26.17.61] 
+  6    16 ms    17 ms    17 ms  172.20.31.13 
+  7     *        *        *     Tiempo de espera agotado para esta solicitud.
+  8     *        *        *     Tiempo de espera agotado para esta solicitud.
+  9     *        *        *     Tiempo de espera agotado para esta solicitud.
+ 10     *        *        *     Tiempo de espera agotado para esta solicitud.
+ 11    19 ms    19 ms    20 ms  be2324.ccr31.bio02.atlas.cogentco.com [154.54.61.129] 
+ 12    34 ms    32 ms    31 ms  be2315.ccr41.par01.atlas.cogentco.com [154.54.61.114] 
+ 13    33 ms    33 ms    33 ms  be2921.rcr21.b032899-0.par01.atlas.cogentco.com [130.117.0.34] 
+ 14    33 ms    43 ms    33 ms  haproxy.demarc.cogentco.com [149.6.160.2] 
+ 15    32 ms    34 ms    38 ms  cust-reflected-svc03601.ip.reflected.net [67.22.59.135] 
+ 16    33 ms    31 ms    32 ms  reflectededge.reflected.net [66.254.114.41] 
+
+Traza completa.
