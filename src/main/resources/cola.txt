@@ -1,0 +1,202 @@
+El productor crea el número: 85
+El productor crea el número: 91
+El productor crea el número: 41
+El productor crea el número: 81
+El productor crea el número: 80
+El consumidor ha consumido el número: 85
+El consumidor ha consumido el número: 91
+El consumidor ha consumido el número: 41
+El consumidor ha consumido el número: 81
+El consumidor ha consumido el número: 80
+El productor crea el número: 48
+El productor crea el número: 17
+El productor crea el número: 45
+El productor crea el número: 21
+El productor crea el número: 7
+El consumidor ha consumido el número: 48
+El consumidor ha consumido el número: 17
+El consumidor ha consumido el número: 45
+El consumidor ha consumido el número: 21
+El consumidor ha consumido el número: 7
+El productor crea el número: 62
+El productor crea el número: 98
+El productor crea el número: 45
+El productor crea el número: 52
+El productor crea el número: 25
+El consumidor ha consumido el número: 62
+El consumidor ha consumido el número: 98
+El consumidor ha consumido el número: 45
+El consumidor ha consumido el número: 52
+El consumidor ha consumido el número: 25
+El productor crea el número: 66
+El productor crea el número: 17
+El productor crea el número: 37
+El productor crea el número: 40
+El productor crea el número: 93
+El consumidor ha consumido el número: 66
+El consumidor ha consumido el número: 17
+El consumidor ha consumido el número: 37
+El consumidor ha consumido el número: 40
+El consumidor ha consumido el número: 93
+El productor crea el número: 50
+El productor crea el número: 13
+El productor crea el número: 41
+El productor crea el número: 50
+El productor crea el número: 13
+El consumidor ha consumido el número: 50
+El consumidor ha consumido el número: 13
+El consumidor ha consumido el número: 41
+El consumidor ha consumido el número: 50
+El consumidor ha consumido el número: 13
+El productor crea el número: 78
+El productor crea el número: 56
+El productor crea el número: 86
+El productor crea el número: 84
+El productor crea el número: 14
+El consumidor ha consumido el número: 78
+El consumidor ha consumido el número: 56
+El consumidor ha consumido el número: 86
+El consumidor ha consumido el número: 84
+El consumidor ha consumido el número: 14
+El productor crea el número: 48
+El productor crea el número: 1
+El productor crea el número: 71
+El productor crea el número: 38
+El productor crea el número: 86
+El consumidor ha consumido el número: 48
+El consumidor ha consumido el número: 1
+El consumidor ha consumido el número: 71
+El consumidor ha consumido el número: 38
+El consumidor ha consumido el número: 86
+El productor crea el número: 87
+El productor crea el número: 94
+El productor crea el número: 23
+El productor crea el número: 41
+El productor crea el número: 43
+El consumidor ha consumido el número: 87
+El consumidor ha consumido el número: 94
+El consumidor ha consumido el número: 23
+El consumidor ha consumido el número: 41
+El consumidor ha consumido el número: 43
+El productor crea el número: 43
+El productor crea el número: 1
+El productor crea el número: 76
+El productor crea el número: 53
+El productor crea el número: 32
+El consumidor ha consumido el número: 43
+El consumidor ha consumido el número: 1
+El consumidor ha consumido el número: 76
+El consumidor ha consumido el número: 53
+El consumidor ha consumido el número: 32
+El productor crea el número: 17
+El productor crea el número: 83
+El productor crea el número: 54
+El productor crea el número: 88
+El productor crea el número: 35
+El consumidor ha consumido el número: 17
+El consumidor ha consumido el número: 83
+El consumidor ha consumido el número: 54
+El consumidor ha consumido el número: 88
+El consumidor ha consumido el número: 35
+El productor crea el número: 79
+El productor crea el número: 39
+El productor crea el número: 82
+El productor crea el número: 88
+El productor crea el número: 3
+El consumidor ha consumido el número: 79
+El consumidor ha consumido el número: 39
+El consumidor ha consumido el número: 82
+El consumidor ha consumido el número: 88
+El consumidor ha consumido el número: 3
+El productor crea el número: 59
+El productor crea el número: 5
+El productor crea el número: 72
+El productor crea el número: 96
+El productor crea el número: 64
+El consumidor ha consumido el número: 59
+El consumidor ha consumido el número: 5
+El consumidor ha consumido el número: 72
+El consumidor ha consumido el número: 96
+El consumidor ha consumido el número: 64
+El productor crea el número: 2
+El productor crea el número: 77
+El productor crea el número: 1
+El productor crea el número: 48
+El productor crea el número: 50
+El consumidor ha consumido el número: 2
+El consumidor ha consumido el número: 77
+El consumidor ha consumido el número: 1
+El consumidor ha consumido el número: 48
+El consumidor ha consumido el número: 50
+El productor crea el número: 4
+El productor crea el número: 90
+El productor crea el número: 37
+El productor crea el número: 100
+El productor crea el número: 84
+El consumidor ha consumido el número: 4
+El consumidor ha consumido el número: 90
+El consumidor ha consumido el número: 37
+El consumidor ha consumido el número: 100
+El consumidor ha consumido el número: 84
+El productor crea el número: 2
+El productor crea el número: 10
+El productor crea el número: 38
+El productor crea el número: 24
+El productor crea el número: 43
+El consumidor ha consumido el número: 2
+El consumidor ha consumido el número: 10
+El consumidor ha consumido el número: 38
+El consumidor ha consumido el número: 24
+El consumidor ha consumido el número: 43
+El productor crea el número: 74
+El productor crea el número: 49
+El productor crea el número: 89
+El productor crea el número: 33
+El productor crea el número: 8
+El consumidor ha consumido el número: 74
+El consumidor ha consumido el número: 49
+El consumidor ha consumido el número: 89
+El consumidor ha consumido el número: 33
+El consumidor ha consumido el número: 8
+El productor crea el número: 59
+El productor crea el número: 61
+El productor crea el número: 27
+El productor crea el número: 17
+El productor crea el número: 100
+El consumidor ha consumido el número: 59
+El consumidor ha consumido el número: 61
+El consumidor ha consumido el número: 27
+El consumidor ha consumido el número: 17
+El consumidor ha consumido el número: 100
+El productor crea el número: 22
+El productor crea el número: 73
+El productor crea el número: 83
+El productor crea el número: 70
+El productor crea el número: 23
+El consumidor ha consumido el número: 22
+El consumidor ha consumido el número: 73
+El consumidor ha consumido el número: 83
+El consumidor ha consumido el número: 70
+El consumidor ha consumido el número: 23
+El productor crea el número: 30
+El productor crea el número: 69
+El productor crea el número: 93
+El productor crea el número: 37
+El productor crea el número: 6
+El consumidor ha consumido el número: 30
+El consumidor ha consumido el número: 69
+El consumidor ha consumido el número: 93
+El consumidor ha consumido el número: 37
+El consumidor ha consumido el número: 6
+El productor crea el número: 41
+El productor crea el número: 29
+El productor crea el número: 55
+El productor crea el número: 13
+El productor crea el número: 6
+El consumidor ha consumido el número: 41
+El consumidor ha consumido el número: 29
+El consumidor ha consumido el número: 55
+El consumidor ha consumido el número: 13
+El consumidor ha consumido el número: 6
+El creador ha acabado con veces: 100
+El consumidor ha acabado con veces: 20

@@ -45,14 +45,14 @@ public class NumeroCuriosoMain {
                         factorialSum += Integer.parseInt(line);
                     }
 
+                }
+
             }
 
-            if (number!= factorialSum){
-                System.out.println(number+ " no es numero curioso");
-            } else {
-                System.out.println(number+ " es un numero curioso");
-            }
-
+        if (number!= factorialSum){
+           System.out.println(number+ " no es numero curioso");
+        } else {
+            System.out.println(number+ " es un numero curioso");
         }
     }
 }}
